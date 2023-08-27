@@ -1,4 +1,5 @@
 <!-- I stole most of my formatting from the bio of https://www.github.com/lu-sife, props to her for making stuff look good.-->
+<!-- Even then, it doesn't look exactly how I'd want it to since screen width changes. Here's what I want it to look like, if your curious https://pasteboard.co/93migJjsHBeU.png-->
 <div align="center">
 <h1> Woah, It's me!</h1>
 
@@ -12,9 +13,9 @@ My repositories are an amalgam of whatever I felt like making at the time, and [
 
 ---
 
-<div align="left">
+<br/><div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=coolandonrs&show_icons=true&theme=transparent&rank_icon=github" align="right">
-Ny favorite languages are Swift and C#. You'll notice there's not a lot of swift here, and thats because, despite my wishes, Swift doesn't exist on much other then macOS.<br/><br/>
+My favorite languages are Swift and C#. You'll notice there's not a lot of swift here, and thats because, despite my wishes, Swift doesn't exist on much other then macOS.<br/><br/>
 The Java is only there for minecraft mods and the unfortunate time before I learned of C#, if you were wondering. I don't like it much. Nor do I like python or javascript, and I <b><i>will</i></b> fight you on that.
 </div>
 
